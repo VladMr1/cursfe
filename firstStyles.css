@@ -1,3 +1,93 @@
 h1 {
     color: green;
 }
+
+#headsecondpage{
+width: 300px;
+height: 300px;
+
+color:blue;
+}
+
+
+.patrate {
+    background-color: cadetblue;
+    border-radius: 3%;
+    margin: 100px;
+    height: 300px;
+    width: 300px;
+    color:blueviolet;
+}
+
+
+#TITLU {
+    font-size: 100px;
+    background-image: url(spaceX1jpg.jpg) ;
+    height: 200px;
+    width: 800px;
+    background-color: darkblue;
+    color: darkkhaki;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#coloana1{
+    display: flex;
+    font-size: 20px;
+    color: cornsilk;
+    height: 800px;
+    width: 200px;
+    background-image: url(gri.jpg);
+    text-align: center;
+    gap: 100px;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#coloana2{
+    display: flex;
+    font-size: 20px;
+    color: cornsilk;
+    height: 800px;
+    width: 200px;
+    background-image: url(gri.jpg);
+    text-align: center;
+    gap: 100px;
+    justify-content: center;
+    flex-direction: column;  
+}
+
+#divulprincipal{
+    background-image: url(divspace.jpg) ;
+    display: flex;
+    align-self: center;
+    background-color: rgb(109, 112, 107);
+    height: 600px;
+    width: 1600px;   
+    
+}
+
+
+body{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    gap: 200px;
+    background-image: url(spacewide.jpg);
+}
+
+#divulpentrucoloanasidivulprincipal{
+display: flex;
+gap: 600px;
+
+}
+
+
+.patrate{
+    display: flex;
+    background-image: url(galaxypatrate.jpeg) ;
+    justify-content: center;
+    padding-top: 30px;
+}
