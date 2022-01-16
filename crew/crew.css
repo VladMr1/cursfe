@@ -1,0 +1,15 @@
+#header {
+    background-color: cadetblue;
+}
+
+#crewPopup {
+    top: 10%;
+    bottom: 10%;
+    left: 50px;
+    right: 50px;
+}
+
+#crewPopup .popupContent {
+    display: flex;
+    justify-content: space-evenly;
+}
